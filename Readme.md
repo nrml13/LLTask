@@ -43,6 +43,6 @@ B -- Contains -->  E(LLRunspace)
 C -- Contains -->  F(LLState)
 C -- Contains -->  G(LLRunspace)
 ```
-## When running Runner.ps1 (In the powershell of visual studio code)
+## When running Runner.ps1 (In the powershell of visual studio code, terminal > run active file)
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://github.com/nrml13/LLTask/blob/master/Runner.ps1.png "Output of Runner.ps1 in visual studio code with terminal > run active file")
